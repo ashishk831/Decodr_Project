@@ -1,1 +1,1 @@
-# Decodr_Project
+# IMDB Movies Data Analysis
